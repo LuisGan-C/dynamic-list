@@ -1,0 +1,12 @@
+.sholist{
+  display: grid;
+  width: 10vw;
+  grid-template-columns: 3fr 1fr;
+  grid-gap: 3px;
+}
+
+
+.done {
+  text-decoration: line-through;
+}
+
